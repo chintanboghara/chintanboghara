@@ -1,10 +1,6 @@
 # Chintan Boghara's-Portfolio
 
-## Getting Started
-
-### Prerequisites
-
-Make sure you have `pnpm` installed globally. If not, you can install it using the following command:
+`pnpm` install it using the following command:
 
 ```bash
 npm install -g pnpm
