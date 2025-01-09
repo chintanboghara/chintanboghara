@@ -80,11 +80,11 @@ export const DATA = {
   ],
   education: [
     {
-      school: "Buildspace",
-      href: "https://buildspace.so",
-      degree: "s3, s4, sf1, s5",
+      school: "SAL Engineering and Technical Institute",
+      href: "https://www.seti.sal.edu.in/",
+      degree: "Bachelor of Engineering in Information Technology",
       logoUrl: "/buildspace.jpg",
-      start: "2023",
+      start: "2021",
       end: "2024",
     },
     {
@@ -103,14 +103,7 @@ export const DATA = {
       start: "2016",
       end: "2021",
     },
-    {
-      school: "International Baccalaureate",
-      href: "https://ibo.org",
-      degree: "IB Diploma",
-      logoUrl: "/ib.png",
-      start: "2012",
-      end: "2016",
-    },
+
   ],
   projects: [
     {
