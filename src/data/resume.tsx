@@ -115,7 +115,7 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Chat Collect",
+      title: "MAX-Q",
       href: "https://chatcollect.com",
       dates: "Jan 2024 - Feb 2024",
       active: true,
