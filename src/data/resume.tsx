@@ -41,6 +41,8 @@ export const DATA = {
     "Datadog",
     "Loki",
     "Elastic Stack",
+    "Kubernetes",
+    "GKE / EKS / AKS",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
