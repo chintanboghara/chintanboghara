@@ -8,7 +8,7 @@ export const DATA = {
   location: "San Francisco, CA",
   locationLink: "https://www.google.com/maps/place/sanfrancisco",
   description:
-    "DevOps & Cloud Engineer. Very active on Hashnode, Twitter.",
+    "DevOps & Cloud Engineer",
   summary:
     "DevOps & Cloud Engineer with hands-on experience in DevOps practices, cloud technologies, and infrastructure automation. Technical proficiency in AWS, Azure, containerization (Docker, Kubernetes), CI/CD tools (Jenkins, GitLab CI, GitHub Actions), Terraform, Ansible, and Vault. Experienced in automating and managing cloud infrastructure, implementing Infrastructure as Code (IaC), and setting up CI/CD pipelines. Proficient in container orchestration, monitoring (Prometheus, Grafana), and secret management. Passionate about streamlining development processes and driving innovation in DevOps and cloud engineering",
   avatarUrl: "/me.png",
