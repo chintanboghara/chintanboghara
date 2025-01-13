@@ -23,8 +23,10 @@ export const DATA = {
     "GitLab",
     "Bitbucket",
     "Bash Scripting",
-    "Java",
-    "C++",
+    "Docker",
+    "Nginx",
+    "Tomcat",
+    "Apache",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
