@@ -96,15 +96,6 @@ export const DATA = {
       start: "2018",
       end: "2021",
     },
-    {
-      school: "Wilfrid Laurier University",
-      href: "https://wlu.ca",
-      degree: "Bachelor's Degree of Business Administration (BBA)",
-      logoUrl: "/laurier.png",
-      start: "2016",
-      end: "2021",
-    },
-
   ],
   projects: [
     {
