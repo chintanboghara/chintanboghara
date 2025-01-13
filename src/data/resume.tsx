@@ -27,6 +27,9 @@ export const DATA = {
     "Nginx",
     "Tomcat",
     "Apache",
+    "AWS",
+    "Azure",
+    "GCP",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
