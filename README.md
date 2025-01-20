@@ -1,5 +1,3 @@
-# Chintan Boghara's Portfolio
-
 `pnpm` install it using the following command:
 
 ```bash
