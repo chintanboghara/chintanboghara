@@ -1,3 +1,7 @@
+[![Docker Image CI](https://github.com/chintanboghara/chintan-boghara/actions/workflows/docker-image.yml/badge.svg?branch=main)](https://github.com/chintanboghara/chintan-boghara/actions/workflows/docker-image.yml)
+[![Dependabot Updates](https://github.com/chintanboghara/chintan-boghara/actions/workflows/dependabot/dependabot-updates/badge.svg?branch=main)](https://github.com/chintanboghara/chintan-boghara/actions/workflows/dependabot/dependabot-updates)
+
+
 `pnpm` install it using the following command:
 
 ```bash
